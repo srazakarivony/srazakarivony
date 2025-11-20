@@ -9,4 +9,4 @@ I am a research scientist working at Safran SA, the research center of [Safran G
 You can find my articles on my [Google Scholar profile](https://scholar.google.fr/citations?user=tQ13zucAAAAJ).
 
 # CV
-You can find my resume on my [LinkedIn profile](www.linkedin.com/in/sebastien-razakarivony-93622980).
+You can find my resume on my [LinkedIn profile](https://www.linkedin.com/in/sebastien-razakarivony-93622980).
