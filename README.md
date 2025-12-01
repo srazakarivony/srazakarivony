@@ -15,11 +15,11 @@ You can find my articles on
 You can find my resume on 
 ➡️ [LinkedIn profile](https://www.linkedin.com/in/sebastien-razakarivony-93622980).
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 - Python, NumPy, SciPy, Pandas
 - PyTorch
 - Signal & time-series processing
 
-# 🔬 Previous Research Interests
+##  🔬 Previous Research Interests
 - Computer Vision
 - Robotics
