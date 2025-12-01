@@ -20,6 +20,6 @@ You can find my resume on
 - PyTorch
 - Signal & time-series processing
 
-##  🔬 Previous Research Interests
+#  🔬 Previous Research Interests
 - Computer Vision
 - Robotics
